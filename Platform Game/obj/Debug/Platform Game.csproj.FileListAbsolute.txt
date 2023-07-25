@@ -1,0 +1,22 @@
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game.exe.config
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game.exe
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game.pdb
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.csproj.AssemblyReference.cache
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game.Form1.resources
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game.Properties.Resources.resources
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.csproj.GenerateResource.cache
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.csproj.CoreCompileInputs.cache
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.exe
+C:\Users\HP Zook 15\Desktop\dfafa\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.pdb
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game.exe.config
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game.exe
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game.pdb
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.csproj.AssemblyReference.cache
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game.Form1.resources
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game.Properties.Resources.resources
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.csproj.GenerateResource.cache
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.csproj.CoreCompileInputs.cache
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.exe
+C:\Users\HP Zook 15\Desktop\Platform Game\Platform-Game-in-Windows-Form\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game.pdb
