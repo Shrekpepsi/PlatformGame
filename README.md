@@ -9,7 +9,7 @@ Platform Mario Game is a 2D educational game project developed with C# and Windo
 
 #  Run the Game
 
-Use Visual Studio IDE as a running simulator
+    Use Visual Studio IDE as a running simulator
 
 
 # Working Demo:
